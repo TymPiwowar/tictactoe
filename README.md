@@ -1,2 +1,2 @@
 # tictactoe
-learning basics of java by doing tictactoe game
+learning basics of java by doing simple tictactoe game
